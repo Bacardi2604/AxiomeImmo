@@ -1,0 +1,32 @@
+#logo{
+    width: 100px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.photo{
+    text-align: center;
+}
+
+#map{
+    width: 70%;
+    padding-top: 50px;
+}
+
+#prix{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+h2{
+    padding-top: 50px;
+    font-family: 'Economica', sans-serif;
+    color: rgb(91, 184, 142);
+}
+
+footer{
+    background-color: rgb(91, 184, 142);
+    height: 50px;
+    text-align: center;
+}
